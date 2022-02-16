@@ -1,0 +1,10 @@
+.SingleElement {
+    color: #666 !important;
+	
+}
+.SingleElement :hover {
+    background-color: #2b2b2b;
+    margin: auto;
+    color: #999 !important;
+    transition: all 0.1s ease;
+  }
