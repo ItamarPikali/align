@@ -3,7 +3,7 @@ const db = require("mysql");
 const pool = db.createPool({
   host: "localhost",
   user: "root",
-  database: "eligntech_task",
+  database: "aligntech_task",
 });
 
 function executeQueryAsync(sqlCmd, values) {
